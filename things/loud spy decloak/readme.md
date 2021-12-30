@@ -1,6 +1,6 @@
 <h2>what is it?</h2>
 
-makes the spy uncloaking sound very loud<br>
+makes the spy uncloaking sound very loud using game_sounds_player.txt<br>
 <h2>is it any good?</h2>
 
 pros to this mod:<br>
