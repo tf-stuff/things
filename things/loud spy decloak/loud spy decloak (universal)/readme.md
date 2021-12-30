@@ -1,0 +1,1 @@
+put the "game_sounds.vpk" file into your custom folder, works with live tf2.
