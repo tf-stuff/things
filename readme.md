@@ -11,4 +11,4 @@ because some people consider these "cheats", others "exploits", and others "mods
 <h2>i want to help, how can i?</h2>
 make an issue.
 <h2>where is your contact information?</h2>
-i will not give you any, as that might allow you to harass me. please instead use a sock puppet of me, preferably one you have given an annoying voice to that gets violently murdered.
+i will not give you any, as that might allow you to harass me. please instead complain on reddit, discord, and various forums so that this can be seen by mod makers and server admins.
