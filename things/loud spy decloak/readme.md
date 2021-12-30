@@ -6,7 +6,7 @@ makes the spy uncloaking sound very loud<br>
 pros to this mod:<br>
 
 * you can hear the spy unlcoak very easily
-* works on sv_pure 2
+* works on `sv_pure 2`
 
 cons to this mod:<br>
 
