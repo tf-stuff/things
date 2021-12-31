@@ -5,7 +5,7 @@ a script that lets you remove the sniper scope<br>
 
 pros to this mod:<br>
 
-* increased sniper FOV
+* increased sniper FOV, making flick shots super easy.
 
 cons to this mod:<br>
 
