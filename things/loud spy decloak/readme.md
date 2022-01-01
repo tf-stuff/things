@@ -10,7 +10,7 @@ pros to this mod:<br>
 cons to this mod:<br>
 
 * requires game restart to change
-* does not work on `sv_pure 2`
+* only kinda works on `sv_pure 2`
 
 <h2>how did this come about?</h2>
 
