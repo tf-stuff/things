@@ -6,11 +6,11 @@ makes the spy uncloaking sound very loud using game_sounds_player.txt<br>
 pros to this mod:<br>
 
 * you can hear the spy unlcoak very easily
-* works on `sv_pure 2`
 
 cons to this mod:<br>
 
 * requires game restart to change
+* does not work on `sv_pure 2`
 
 <h2>how did this come about?</h2>
 
