@@ -8,7 +8,7 @@ i want to share this with other people.
 
 <h2>do you cheat?</h2>
 
-depends on what you consider cheating.
+yes. no. maybe. why should you care?
 
 <h2>how do i download these?</h2>
 
