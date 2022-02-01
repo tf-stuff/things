@@ -1,5 +1,3 @@
-as of right now, this guide might be incomplete, as i havent used linux in a while and i dont know if this still works. good luck.
-<br>
 first grab the requirements<br>
 ```
 sudo apt install gcc-multilib g++-multilib libx11-dev mesa-common-dev
@@ -22,3 +20,5 @@ STRANGLE_PICMIP <somenumber> %command%
 ```
 and yes, "%command%" is supposed to be there.<br>
 different values work on different hardware, so you'll just have to experiment with it yourself<br>
+
+now, go to tf2's properties and disable the steam overlay. this crashes the game on some systems while using libstrangle, so disabling it will mean you have a better chance of having this work.
