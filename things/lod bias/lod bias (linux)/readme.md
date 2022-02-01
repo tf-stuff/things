@@ -23,4 +23,5 @@ different values work on different hardware, so you'll just have to experiment w
 
 <h2>troubleshooting</h2>
 
-game should launch, if issues exist try adding `STRANGLE_NODLSYM=1` before the `STRANGLE_PICMIP=` or disable steam overlay. if the game launches but no bias has been applied, try setting either `mat_mipmaptextures` to 1 and `mat_filtertextures` to 1 OR set `mat_filtertextures` to 0
+game should launch, if issues exist try adding `STRANGLE_NODLSYM=1` before the `STRANGLE_PICMIP=` or disable steam overlay.<br>
+if the game launches but no bias has been applied, try setting `mat_mipmaptextures` to 1 and `mat_filtertextures` to 1 OR try setting `mat_filtertextures` to 0
