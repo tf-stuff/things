@@ -12,7 +12,7 @@ cd libstrangle-master
 ```
 then, use the "make" command<br>
 ```
-sudo make
+sudo make install
 ```
 then, go to tf2's launch options and add the text below, with "<somenumber>" replaced with your desired lod bias, between -16 and 16.<br> positive numbers indicate lower textures, negative indicate higher.<br>
 ```
