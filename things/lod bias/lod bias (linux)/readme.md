@@ -21,4 +21,6 @@ STRANGLE_PICMIP=<somenumber> strangle %command%
 and yes, "%command%" is supposed to be there.<br>
 different values work on different hardware, so you'll just have to experiment with it yourself<br>
 
-now, go to tf2's properties and disable the steam overlay. this crashes the game on some systems while using libstrangle, so disabling it will mean you have a better chance of having this work.
+<h2>troubleshooting</h2>
+
+game should launch, if issues exist try adding `STRANGLE_NODLSYM=1` before the `STRANGLE_PICMIP=` or disable steam overlay. if the game launches but no bias has been applied, try setting either `mat_mipmaptextures` to 1 and `mat_filtertextures` to 1 OR set `mat_filtertextures` to 0
