@@ -6,7 +6,7 @@ these programs will trick your tf2 into using lower quality mipmaps than you cou
 pros to this mod:<br>
 
 * allows lower quality textures than mat_picmip
-* can take advantage of the `-forceallmips` launch option
+* can take advantage of the `-forceallmips` launch option (only on windows)
 * works in live tf2 and in any source sdk 2013 multiplayer game, such as <b>team fortress 2 classic</b>
 
 cons to this mod:<br>
